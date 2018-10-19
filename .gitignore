@@ -1,0 +1,5 @@
+.vscode/*
+venv
+*.tok
+chat_id.txt
+update_id.txt

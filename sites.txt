@@ -1,0 +1,9 @@
+https://sgp.scge.pe.gov.br/
+http://www.sistemadeouvidoria.pe.gov.br/multiwork/controller
+http://200.238.112.13:8080/ModuloCidadao/
+http://ouvidoria-apoio.scge.pe.gov.br/
+https://sicave.scge.pe.gov.br/
+https://www.expresso.pe.gov.br
+https://sei.pe.gov.br
+http://web.transparencia.pe.gov.br/
+http://web.transparencia.pe.gov.br/pentaho/api/repos/%3Apublic%3AOpenReports%3APortal_Producao%3APainel_Despesa_Geral%3APainel_Despesa_Geral.wcdf/generatedContent
